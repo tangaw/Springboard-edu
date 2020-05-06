@@ -1,0 +1,5 @@
+# Local configs #
+######################
+*.python-version
+.vscode/
+.ipynb_checkpoints
