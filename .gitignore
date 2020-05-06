@@ -1,0 +1,14 @@
+# Local configs #
+######################
+*.python-version
+.vscode/
+.ipynb_checkpoints
+
+# Logs and databases #
+######################
+*.log
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
